@@ -7,7 +7,7 @@ QUESTION-1
 a. Length of 'Python is a case sensitive language' is 35
 b. 'egaugnal evitisnes esac a si nohtyP' is reversed string
 c. New string is 'a case sensitive'
-d. Replaced string is 'object oriented'
+d. After replacing the string:Python is object oriented language
 e. Index of substring 'a' in given input string is: 10
 f. String after removing white spaces is 'Pythonisacasesensitivelanguage'
 
