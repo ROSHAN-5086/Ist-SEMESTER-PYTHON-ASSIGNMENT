@@ -15,7 +15,7 @@ new_string=x[10:26]
 print(f"c. New string is '{new_string}'")
 #part d
 new_string=x.replace("a case sensitive", "object oriented")
-print("After replacing the string:",new_string)
+print("d. After replacing the string:",new_string)
 
 #part e
 
