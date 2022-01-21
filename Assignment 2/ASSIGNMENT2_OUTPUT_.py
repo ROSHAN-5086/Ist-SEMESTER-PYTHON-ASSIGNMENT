@@ -4,7 +4,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 = RESTART: /Users/roshantripathi/Desktop/Program/PEC assignment/ASSIGNMENT2_21105086_.py
 
 QUESTION-1
-Enter the string:Python is a case sensitive language
 a. Length of 'Python is a case sensitive language' is 35
 b. 'egaugnal evitisnes esac a si nohtyP' is reversed string
 c. New string is 'a case sensitive'
