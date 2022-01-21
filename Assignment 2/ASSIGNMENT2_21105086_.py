@@ -14,8 +14,8 @@ print(f"b. '{reverse_string}' is reversed string")
 new_string=x[10:26]
 print(f"c. New string is '{new_string}'")
 #part d
-new_string="object oriented"
-print(f"d. Replaced string is '{new_string}'")
+new_string=x.replace("a case sensitive", "object oriented")
+print("After replacing the string:",new_string)
 
 #part e
 
