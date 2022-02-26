@@ -158,6 +158,7 @@ print("\nQue3.c")
 listr=[q,r]
 for i in range (4,7):
     listr.append(i)
+print(f"Appended (4,5,6) in the values ({q},{r})")
 listv2=[]
 #adding number > 4 from listr to listv2
 for i in listr:
