@@ -73,6 +73,7 @@ Que3.b
 All result values are 'non-zero'
 
 Que3.c
+Appended (4,5,6) in the values (102,10)
 Values greater than 4 is 102,10,5,6
 
 Que3.d
